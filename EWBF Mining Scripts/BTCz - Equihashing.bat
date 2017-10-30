@@ -1,0 +1,1 @@
+miner.exe --server equihashing.com --port 6666  --user t1JAR2876A9n4f8iMseARPYDkP2tKz7d4xj.Caishen --pass cash --pec
