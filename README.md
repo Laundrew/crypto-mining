@@ -11,6 +11,7 @@ Additional Information:<br>
 
 
 If you find this useful feel free to donate:
+
 BTC: 1JP6tZ3gyAS6jPjH6kmCoF2hi7mLehE7sh<br>
 ZEN: znUxrVrVMxCRkPcSt4sXi9iVj4mJXgiWj7s<br>
 Hush: t1Na8hVBELihzoeGrtE8FZidadawhVhwQNb<br>
