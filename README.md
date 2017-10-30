@@ -11,11 +11,10 @@ Additional Information:<br>
 
 
 If you find this useful feel free to donate:
-
-[li]BTC: 1JP6tZ3gyAS6jPjH6kmCoF2hi7mLehE7sh<br>
-ZEN: znUxrVrVMxCRkPcSt4sXi9iVj4mJXgiWj7s<br>
-Hush: t1Na8hVBELihzoeGrtE8FZidadawhVhwQNb<br>
-ETH: 0x5d19011fd7aabde96623aa42f16b0733fffc3ff6<br>
-LTC: LVQHGTTkhhY58UJQRTEek8RD2tUn7hBNgv<br>
+* BTC: 1JP6tZ3gyAS6jPjH6kmCoF2hi7mLehE7sh
+* ZEN: znUxrVrVMxCRkPcSt4sXi9iVj4mJXgiWj7s
+* Hush: t1Na8hVBELihzoeGrtE8FZidadawhVhwQNb
+* ETH: 0x5d19011fd7aabde96623aa42f16b0733fffc3ff6
+* LTC: LVQHGTTkhhY58UJQRTEek8RD2tUn7hBNgv<
 
 
