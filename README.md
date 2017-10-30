@@ -2,7 +2,7 @@
 
 As I have started to set up multiple machines for mining I decided I needed a better way to keep track of the scripts for different pools. This repository will contain the scripts for various miners, and mining pools. As a Nvidia Miner, you will find a number of scripts using the EWBF mining software. You can find more information about the EWBF miner located on this <a href="https://bitcointalk.org/index.php?topic=1707546.0"> bitcointalk thread.</a>
 
-Please feel free to use them as templates for your own mining.  You should be able to just unzip the files into the respective miner directories(claymore or ewbf) and run them.
+Please feel free to use them as templates for your own mining.  You should be able to just unzip the files into the respective miner directories(claymore or ewbf) and run them.  The format is identical on linux and windows, but be sure that you have the updated version of Claymores and EWBF.
 
 Laundrew
 
