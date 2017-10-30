@@ -1,0 +1,4 @@
+POOL: stratum+tcp://sia-eu2.nanopool.org:7777, WALLET: 9f972bd056719b47255b3db6e06cc69b12c58dcd59a93f818067304287a3c5e941c1b86d8acf/Thor/laundrew@gmail.com, PSW: x, WORKER: , ESM: 0, ALLPOOLS: 0
+POOL: stratum+tcp://sia-asia1.nanopool.org:7777, WALLET: 9f972bd056719b47255b3db6e06cc69b12c58dcd59a93f818067304287a3c5e941c1b86d8acf/Thor/laundrew@gmail.com, PSW: x, WORKER: , ESM: 0, ALLPOOLS: 0
+POOL: stratum+tcp://sia-us-east1.nanopool.org:7777, WALLET: 9f972bd056719b47255b3db6e06cc69b12c58dcd59a93f818067304287a3c5e941c1b86d8acf/Thor/laundrew@gmail.com, PSW: x, WORKER: , ESM: 0, ALLPOOLS: 0
+POOL: stratum+tcp://sia-us-west1.nanopool.org:7777, WALLET: 9f972bd056719b47255b3db6e06cc69b12c58dcd59a93f818067304287a3c5e941c1b86d8acf/Thor/laundrew@gmail.com, PSW: x, WORKER: , ESM: 0, ALLPOOLS: 0

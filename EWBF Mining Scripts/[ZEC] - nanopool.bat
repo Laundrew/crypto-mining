@@ -1,0 +1,1 @@
+miner --server zec-us-east1.nanopool.org --user t1emzuNbemjqnEhEue74NL3BxsR4cA1ajfP.Tyche/laundrew@gmail.com --pass z --port 6666

@@ -1,0 +1,1 @@
+miner --server us.zenmine.pro --user znUxrVrVMxCRkPcSt4sXi9iVj4mJXgiWj7s.Werdle --pass x --port 9009

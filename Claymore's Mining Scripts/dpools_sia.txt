@@ -1,0 +1,6 @@
+# WARNING! Remove "#" characters to enable lines, with "#" they are disabled and will be ignored by miner! Check README for details.
+
+POOL: stratum+tcp://sia-eu2.nanopool.org:7777, WALLET: d4463212d71b9c10bdf4d6b85ed84380d394acdc7f05a126cd39a6d31c6f3d6852ffc8975d86/Black Widow/laundrew@gmail.com, PSW: x, WORKER: , ESM: 0, ALLPOOLS: 0
+POOL: stratum+tcp://sia-us-east1.nanopool.org:7777, WALLET: d4463212d71b9c10bdf4d6b85ed84380d394acdc7f05a126cd39a6d31c6f3d6852ffc8975d86/Black Widow/laundrew@gmail.com, PSW: x, WORKER: , ESM: 0, ALLPOOLS: 0
+POOL: stratum+tcp://sia-us-west1.nanopool.org:7777, WALLET: d4463212d71b9c10bdf4d6b85ed84380d394acdc7f05a126cd39a6d31c6f3d6852ffc8975d86/Black Widow/laundrew@gmail.com, PSW: x, WORKER: , ESM: 0, ALLPOOLS: 0
+POOL: stratum+tcp://sia-asia1.nanopool.org:7777, WALLET: d4463212d71b9c10bdf4d6b85ed84380d394acdc7f05a126cd39a6d31c6f3d6852ffc8975d86/Black Widow/laundrew@gmail.com, PSW: x, WORKER: , ESM: 0, ALLPOOLS: 0

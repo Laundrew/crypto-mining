@@ -1,0 +1,1 @@
+EthDcrMiner64.exe -epool stratum+tcp://us.ubiqpool.io:8008 -ewal 0xf9EB489daE0B153882b0D4e1008f8B1Fe57BB3B1 -eworker Werdle -epsw x -esm 0 -mode 1 -erate 1 -wd 1 -allcoins 1

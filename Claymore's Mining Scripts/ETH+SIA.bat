@@ -1,0 +1,1 @@
+EthDcrMiner64.exe -epool stratum+tcp://us.ubiqpool.io:8008 -ewal 0xf9EB489daE0B153882b0D4e1008f8B1Fe57BB3B1.Thor/laundrew@gmail.com -epsw x -dcoin sia -dpool stratum+tcp://sia-eu1.nanopool.org:7777 -dwal 9f972bd056719b47255b3db6e06cc69b12c58dcd59a93f818067304287a3c5e941c1b86d8acf/Thor/laundrew@gmail.com -dpsw x -ftime 10
