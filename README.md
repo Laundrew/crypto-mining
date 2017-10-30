@@ -15,6 +15,9 @@ If you find this useful feel free to donate:
 * ZEN: znUxrVrVMxCRkPcSt4sXi9iVj4mJXgiWj7s
 * Hush: t1Na8hVBELihzoeGrtE8FZidadawhVhwQNb
 * ETH: 0x5d19011fd7aabde96623aa42f16b0733fffc3ff6
-* LTC: LVQHGTTkhhY58UJQRTEek8RD2tUn7hBNgv<
+* LTC: LVQHGTTkhhY58UJQRTEek8RD2tUn7hBNgv
+* ZEC: t1P922rAbz7TtJj6eKzgb4s473ui41mLtPg
+* UBIQ: 0xf9EB489daE0B153882b0D4e1008f8B1Fe57BB3B1
+
 
 
