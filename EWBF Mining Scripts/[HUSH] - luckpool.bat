@@ -1,0 +1,1 @@
+miner.exe --server luckpool.org --port 3757  --user t1Na8hVBELihzoeGrtE8FZidadawhVhwQNb.Caishen --pass cash --pec
