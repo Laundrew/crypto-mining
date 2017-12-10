@@ -1,0 +1,1 @@
+ccminer-x64 -o stratum+tcp://mona.suprnova.cc:2995 -a lyra2rev2 -u Eldrew.mantis -p w

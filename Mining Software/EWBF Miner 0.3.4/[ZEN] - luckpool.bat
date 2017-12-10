@@ -1,1 +1,1 @@
-miner --server luckpool.org --port 3057 --user znUxrVrVMxCRkPcSt4sXi9iVj4mJXgiWj7s.Tyche --pass x
+miner --server luckpool.org --port 3057 --user znUxrVrVMxCRkPcSt4sXi9iVj4mJXgiWj7s.Mantis --pass x

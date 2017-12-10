@@ -1,0 +1,1 @@
+ccminer-x64 -a lyra2v2 -i 20 -o stratum+tcp://multipool.sonofatech.com:4533 -u VfoEjBudsp6GkssfBdefU9afjVbucPvoHh.mantis -p x

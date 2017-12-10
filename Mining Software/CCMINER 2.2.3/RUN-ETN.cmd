@@ -1,0 +1,1 @@
+ccminer-x64 -a cryptonight -o stratum+tcp://etn-us-east1.nanopool.org:13333 -u etnkJkzqrZd62MCho6AAhTPwUXUokz93SKZR38jjEzQ8cGb1mcMkrYp7XyP8nerPCELr2MaCBbxcNBwE8aLoVS9CA7Lz8Pe9qx.Mantis/laundrew@gmail.com -p x
